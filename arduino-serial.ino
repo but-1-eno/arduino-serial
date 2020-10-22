@@ -6,7 +6,7 @@
 // de entrega excelentes em
 // https://www.robocore.net/
 
-// INICIO DO CÓDIGO //
+
 
 
 //declaração de variáveis usadas.
